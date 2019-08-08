@@ -2,7 +2,7 @@
   "name": "JavascriptPongGame",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://github.com/psweeting1/javascriptPongGame",
+  "homepage": "https://psweeting1.github.io/javascriptPongGame/",
   "scripts": {
     "start": "webpack-dev-server --mode development --host 0.0.0.0 --port 3000",
     "build": "webpack",
@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d public"
   },
   "devDependencies": {
-    "gh-pages": "2.0.1"
+    "gh-pages": "^2.0.1"
   },
   "dependencies": {
     "@babel/core": "7.5.5",
