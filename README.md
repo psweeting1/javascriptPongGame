@@ -4,6 +4,7 @@ As a front-end challenge, we were asked to make a Javascript Game from a HTML Ca
 
 ## How to run it
 
+- `npm install` - install node_modules
 - `npm start` - run the local dev server
 - `npm deploy` - build and deploy to a github pages branch
 
